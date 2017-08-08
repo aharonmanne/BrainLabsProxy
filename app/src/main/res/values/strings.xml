@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BrainLabsProxy</string>
+    <string name="btle_title">BTLE</string>
+    <string name="find_device_button">Find Device</string>
+    <string name="connected_to_hint">Connected To:</string>
+    <string name="tcpip_title">TCP/IP</string>
+    <string name="proxy_ip_prompt">Proxy IP</string>
+    <string name="pc_ip_prompt">PC IP</string>
+    <string name="packets_sent_prompt">Packets Sent</string>
+    <string name="packets_received_prompt">Packets Received</string>
+    <string name="ble_not_supported">BLE not supported on this device</string>
+    <string name="unknown_device">Unknown Device</string>
+</resources>
